@@ -1,8 +1,6 @@
 """A small FAQ chatbot using spaCy, TF-IDF, cosine similarity, and Gradio."""
 
 from pathlib import Path
-import re
-
 import gradio as gr
 import pandas as pd
 import spacy
