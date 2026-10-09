@@ -1,0 +1,4 @@
+spacy>=3.8,<4.0
+gradio>=4.44,<6.0
+pandas>=2.2,<3.0
+scikit-learn>=1.4,<2.0
